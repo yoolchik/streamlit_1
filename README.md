@@ -1,4 +1,4 @@
-# Streamlit first project
+# Streamlit first project "Data Science Job Salaries"
 
 This project is my first streamlit app. It's about Data Science Job Salaries
 
@@ -27,5 +27,6 @@ company_location | The country of the employer's main office or contracting bran
 company_size | The average number of people that worked for the company during the year: S less than 50 employees (small) M 50 to 250 employees (medium) L more than 250 employees (large)
 
 ### Streamlit cloud app
+https://app1-gabsmrn4ijeczkzlsgebdz.streamlit.app/
 
 
