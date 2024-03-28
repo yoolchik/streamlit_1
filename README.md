@@ -29,4 +29,5 @@ company_size | The average number of people that worked for the company during t
 ### Streamlit cloud app
 https://app1-gabsmrn4ijeczkzlsgebdz.streamlit.app/
 
-
+### Author
+Loginova Yuliya
